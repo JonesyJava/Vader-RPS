@@ -1,0 +1,16 @@
+C:\source\CSharp\Vader-RPS\bin\Debug\net5.0\Vader-RPS.exe
+C:\source\CSharp\Vader-RPS\bin\Debug\net5.0\Vader-RPS.deps.json
+C:\source\CSharp\Vader-RPS\bin\Debug\net5.0\Vader-RPS.runtimeconfig.json
+C:\source\CSharp\Vader-RPS\bin\Debug\net5.0\Vader-RPS.runtimeconfig.dev.json
+C:\source\CSharp\Vader-RPS\bin\Debug\net5.0\Vader-RPS.dll
+C:\source\CSharp\Vader-RPS\bin\Debug\net5.0\ref\Vader-RPS.dll
+C:\source\CSharp\Vader-RPS\bin\Debug\net5.0\Vader-RPS.pdb
+C:\source\CSharp\Vader-RPS\obj\Debug\net5.0\Vader-RPS.csprojAssemblyReference.cache
+C:\source\CSharp\Vader-RPS\obj\Debug\net5.0\Vader-RPS.GeneratedMSBuildEditorConfig.editorconfig
+C:\source\CSharp\Vader-RPS\obj\Debug\net5.0\Vader-RPS.AssemblyInfoInputs.cache
+C:\source\CSharp\Vader-RPS\obj\Debug\net5.0\Vader-RPS.AssemblyInfo.cs
+C:\source\CSharp\Vader-RPS\obj\Debug\net5.0\Vader-RPS.csproj.CoreCompileInputs.cache
+C:\source\CSharp\Vader-RPS\obj\Debug\net5.0\Vader-RPS.dll
+C:\source\CSharp\Vader-RPS\obj\Debug\net5.0\ref\Vader-RPS.dll
+C:\source\CSharp\Vader-RPS\obj\Debug\net5.0\Vader-RPS.pdb
+C:\source\CSharp\Vader-RPS\obj\Debug\net5.0\Vader-RPS.genruntimeconfig.cache
